@@ -1,4 +1,4 @@
-ceer-site
+CEER-site
 =========
 
 CEER Website - Written in Laravel
