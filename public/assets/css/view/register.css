@@ -1,0 +1,23 @@
+#registration_div{
+	width:60%;
+	margin:auto;
+	box-shadow:4px 4px 2px #AAAAAA;
+	border:1px solid #CCC;
+	margin-top: 32px;
+	margin-bottom: 32px;
+}
+
+.darkline{
+	height:1px;
+	background-color:#ABABAB;
+	margin-bottom: 16px;
+}
+
+.required-star::after{
+	content:"*";
+	color:red;
+}
+
+.subtitle{
+	text-align: center;
+}
